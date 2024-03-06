@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yosif43.Yosif43" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Yosif43.Yosif43" />
 
 ### Hi there 👋
 
