@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Yosif43.Yosif43" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors?page_id=Yosif43.Yosif43" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokaupp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Coders+👋;+I'm+Yosif+Yosifov!;" />
