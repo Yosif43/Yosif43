@@ -2,7 +2,8 @@
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokaupp.com/?font=Righteous&size=35center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Coders+👋;+I'm+Yosif+Yosifov!;" />
+    <img src="https://readme-typing-svg.herokaupp.com/?
+      font=Righteous&size=35center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Coders+👋;+I'm+Yosif+Yosifov!;" />
   </a>
 </h1>
 
