@@ -23,7 +23,7 @@
   </a>
   <br>
   <a align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=15" />
   </a>
 </div>
 
