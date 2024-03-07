@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py, discord" />
+    <img src="https://skillicons.dev/icons?i=py,discord" />
   </a>
 </p>
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
