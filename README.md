@@ -8,7 +8,7 @@
     <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
 </p>
 <p align="center">
-  <a href="https://discord.gg/mR3nVqU8">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=discord" />
   <a href="https://www.linkedin.com/in/yosif-yosifov-b6a755281/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
