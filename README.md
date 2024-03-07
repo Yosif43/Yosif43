@@ -25,6 +25,7 @@
   <a align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=15" />
   </a>
+  <br>
   <a>
     <img width=325 align="center" scr="https://github-readme-stats-yosif43.vercel.app/api/top-langs/?username=yosif43&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </a>
