@@ -23,7 +23,7 @@
     
 </div>
 
-<div>
+<div align="center">
   <a align="center">
     <img src="https://streak-stats.demolab.com/?user=yosif43&theme=neon-dark" />
   </a>
