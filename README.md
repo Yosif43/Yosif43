@@ -24,5 +24,12 @@
 </div>
 <br>
 </br>
-<img align="center" src="https://streak-stats.demolab.com/?user=yosif43&theme=neon-dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical" />
+<div>
+  <a align="center">
+    <img src="https://streak-stats.demolab.com/?user=yosif43&theme=neon-dark" />
+  </a>
+  <a align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical" />
+  </a>
+</div>
+
