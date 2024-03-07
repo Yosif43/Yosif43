@@ -14,8 +14,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
 <br>
-    
-<img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 <div align="center">
   <h2> My Contributions </h2>
@@ -27,4 +25,4 @@
 <br>
 </br>
 <img align="center" src="https://streak-stats.demolab.com/?user=yosif43&theme=neon-dark" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical" />
