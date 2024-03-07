@@ -26,7 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=15" />
   </a>
   <a>
-    <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=yosif43&hide_progress=true"
+    <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=yosif43&layout=donut"
   </a>
   
 </div>
