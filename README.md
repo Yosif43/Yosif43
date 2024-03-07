@@ -22,12 +22,12 @@
 </br>
     
 </div>
-<br>
-</br>
+
 <div>
   <a align="center">
     <img src="https://streak-stats.demolab.com/?user=yosif43&theme=neon-dark" />
   </a>
+  <br>
   <a align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical" />
   </a>
