@@ -23,8 +23,11 @@
   </a>
   <br>
   <a align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=15" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosif43&show_icons=true&locale=en&layout=donut" alt="yosif43" /></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=yosif43&show_icons=true&theme=radical&rank_icon=github&border_radius=15" /></p>
   </a>
  
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosif43" alt="yosif43" /></a> </p>
 
