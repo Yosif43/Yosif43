@@ -13,15 +13,7 @@
   <a href="https://www.linkedin.com/in/yosif-yosifov-b6a755281/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
-<br>
 
-<div align="center">
-  <h2> My Contributions </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</br>
-    
-</div>
 
 <div align="center">
   <a align="center">
