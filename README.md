@@ -13,7 +13,14 @@
   <a href="https://www.linkedin.com/in/yosif-yosifov-b6a755281/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
+<br>
+    
 <img align="left" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 <div align="center">
-  
+  <h2> My Contributions </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yosif43/yosif43/output/github-contribution-grid-snake.svg" />
+</br>
+    
 </div>
