@@ -5,7 +5,7 @@
   <img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" />
 </h1>
 <p align="center">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="center">Languages and Tools:</h3>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
 </p>
