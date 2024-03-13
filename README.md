@@ -1,7 +1,8 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Yosif43.Yosif43&left_color=red&right_color=green&left_text=Hello%20Visitors" />
-<img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=285DFF&background=A3FF7200&center=true&random=false&width=435&lines=Hello+I'm+Yosif!" alt="Typing SVG" /></a>
+  <img src="https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966" />
 </h1>
 <p align="center">
   <a href="#">
