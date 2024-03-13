@@ -6,7 +6,7 @@
 </h1>
 <p align="center">
   <h3 align="center">Languages and Tools:</h3>
-  <a href="#">
+  <a href="#" align="center">
     <img src="https://skillicons.dev/icons?i=py,cs,html,css,js" />
 </p>
 <p align="center">
