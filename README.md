@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=285DFF&background=A3FF7200&center=true&random=false&width=435&lines=Hello+I'm+Yosif!" alt="Typing SVG" /></a>
-  <img src="https://camo.githubusercontent.com/c2c315240a33d03dc80d0b793144cf88b2bf535fbdd6a1720b7aed2b63035adb/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363035362c77696474682d313230302c6865696768742d3930302c696d6773697a652d3633383035332c726573697a656d6f64652d382f32303231303730365f646576656c6f7065722d65636f6e6f6d795f30312e6a7067" height="600" width="1000" />
+  <img src="https://github.com/Yosif43/Yosif43/assets/117854744/8a94f081-20f3-438c-802f-c33189a4f875" />
 </h1>
 <h3 align="center">⚒️Languages-Framewroks and Tools:</h3>
 <p align="center">
