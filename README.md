@@ -9,7 +9,7 @@
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=py" />
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=pycharm,cs,visualstudio,html,css,vscode,js,docker,figma,postgres,mysql,postman" />  
+    <img src="https://skillicons.dev/icons?i=pycharm,django,cs,visualstudio,html,css,vscode,js,docker,figma,postgres,mysql,postman" />  
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
